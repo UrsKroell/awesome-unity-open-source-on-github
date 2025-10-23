@@ -174,7 +174,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [ClearFlagsMobile](https://github.com/falconmick/ClearFlagsMobile) ![GitHub last commit](https://img.shields.io/github/last-commit/falconmick/ClearFlagsMobile?logoSize=auto) - A Unity Image Effect to reproduce the Clear Flags camera effect for mobile
 - [PixelBaseOutlinePostProcessing](https://github.com/vux427/PixelBaseOutlinePostProcessing) ![GitHub last commit](https://img.shields.io/github/last-commit/vux427/PixelBaseOutlinePostProcessing?logoSize=auto) - use some unity graphic API to display outline post processing
 - [XELF.Hexelate.Shader](https://github.com/xelfia/XELF.Hexelate.Shader) ![GitHub last commit](https://img.shields.io/github/last-commit/xelfia/XELF.Hexelate.Shader?logoSize=auto) - Hexelation Shader is an image effect Screen will be filtered by hexagonal grids
-- [FastPostProcessing](https://github.com/demonixis/FastPostProcessing) - A small and fast post processing stack (only one pass) ![GitHub last commit](https://img.shields.io/github/last-commit/demonixis/FastPostProcessing) - A small and fast post processing stack (only one pass?logoSize=auto) targeting mobile and mobile VR
+- [FastPostProcessing](https://github.com/demonixis/FastPostProcessing) ![GitHub last commit](https://img.shields.io/github/last-commit/demonixis/FastPostProcessing) - A small and fast post processing stack (only one pass) targeting mobile and mobile VR
 - [EdgeDetect-PostProcessingUnity](https://github.com/jean-moreno/EdgeDetect-PostProcessingUnity) ![GitHub last commit](https://img.shields.io/github/last-commit/jean-moreno/EdgeDetect-PostProcessingUnity?logoSize=auto) - Unity legacy Edge Detect image effect ported to Post Processing Stack v2
 - [Heatwave](https://github.com/andrewgotow/Heatwave) ![GitHub last commit](https://img.shields.io/github/last-commit/andrewgotow/Heatwave?logoSize=auto) - A simple post-processing effect for the Unity game engine which renders small-scale distortions
 
@@ -401,7 +401,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [EditorSceneActiveSwitcher-Unity](https://github.com/VeniTaku/EditorSceneActiveSwitcher-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/VeniTaku/EditorSceneActiveSwitcher-Unity?logoSize=auto) - Load and unload scenes with a one click
 - [hierarchy-icons](https://github.com/mminer/hierarchy-icons) ![GitHub last commit](https://img.shields.io/github/last-commit/mminer/hierarchy-icons?logoSize=auto) - Unity extension to show component icons in the Hierarchy
 - [Unity-HierarchyHelper](https://github.com/gydisme/Unity-HierarchyHelper) ![GitHub last commit](https://img.shields.io/github/last-commit/gydisme/Unity-HierarchyHelper?logoSize=auto) - The fastest way to create Unity Hierarchy GUI items ever
-- [EditorGUIHierarchyView](https://github.com/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view) ![GitHub last commit](https://img.shields.io/github/last-commit/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view?logoSize=auto) to your Editor UI
+- [EditorGUIHierarchyView](https://github.com/miguel12345/EditorGUIHierarchyView) ![GitHub last commit](https://img.shields.io/github/last-commit/miguel12345/EditorGUIHierarchyView) - Easily add a Hierarchy view (like Unity's scene view) to your Editor UI
 - [Unity Hierarchy Menu Customizer](https://github.com/baba-s/unity-hierarchy-menu-customizer) ![GitHub last commit](https://img.shields.io/github/last-commit/baba-s/unity-hierarchy-menu-customizer?logoSize=auto) - Customize the menu that appears when you right-click on Hierarchy
 - [HierarchyDecorator](https://github.com/WooshiiDev/HierarchyDecorator) ![GitHub last commit](https://img.shields.io/github/last-commit/WooshiiDev/HierarchyDecorator?logoSize=auto) - Provides custom drawing within the Hierarchy window, and add extra information functionality
 
@@ -496,9 +496,9 @@ A categorized collection of awesome Unity open source on GitHub.
 - [AutoSaveScene](https://github.com/liortal53/AutoSaveScene) ![GitHub last commit](https://img.shields.io/github/last-commit/liortal53/AutoSaveScene?logoSize=auto) - Auto saving scene & minimizing lost work
 - [CustomAssetImporter](https://github.com/charcolle/CustomAssetImporter) ![GitHub last commit](https://img.shields.io/github/last-commit/charcolle/CustomAssetImporter?logoSize=auto) - Set asset's import settings automatically
 - [UnityBulkConverter](https://github.com/wotakuro/UnityBulkConverter) ![GitHub last commit](https://img.shields.io/github/last-commit/wotakuro/UnityBulkConverter?logoSize=auto) - library and samples for converting each assets
-- [Unity-LayoutExporter](https://github.com/rngtm/Unity-LayoutExporter) - Tool to import/export Unity layout settings(.wlt) ![GitHub last commit](https://img.shields.io/github/last-commit/rngtm/Unity-LayoutExporter) - Tool to import/export Unity layout settings(.wlt?logoSize=auto)
+- [Unity-LayoutExporter](https://github.com/rngtm/Unity-LayoutExporter) ![GitHub last commit](https://img.shields.io/github/last-commit/rngtm/Unity-LayoutExporter) - Tool to import/export Unity layout settings(.wlt)
 - [BuildSceneProcessor.cs](https://gist.github.com/mrcarriere/92322b70e1d7133d60a971cbd7b07604) - Automatically add a scene to your Build Settings
-- [unity-aseprite-importer](https://github.com/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite) ![GitHub last commit](https://img.shields.io/github/last-commit/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite?logoSize=auto)
+- [unity-aseprite-importer](https://github.com/martinhodler/unity-aseprite-importer) ![GitHub last commit](https://img.shields.io/github/last-commit/martinhodler/unity-aseprite-importer) - Importer for Aseprite files (.ase, .aseprite)
 - [SubAssetDragAndDrop](https://github.com/Maligan/unity-subassets-drag-and-drop) ![GitHub last commit](https://img.shields.io/github/last-commit/Maligan/unity-subassets-drag-and-drop?logoSize=auto) - Allows add/remove subasset with simple Drag&Drop operation
 
 ## Hot Key
@@ -553,7 +553,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Design
 
 - [ModifyEditorStyle](https://github.com/5argon/ModifyEditorStyle) ![GitHub last commit](https://img.shields.io/github/last-commit/5argon/ModifyEditorStyle?logoSize=auto) - Change fonts throughout Unity editor
-- [UnityDarkSkin](https://github.com/Gluschenko/UnityDarkSkin) - Switching layout theme in Unity Editor (light -> dark) ![GitHub last commit](https://img.shields.io/github/last-commit/Gluschenko/UnityDarkSkin) - Switching layout theme in Unity Editor (light -> dark?logoSize=auto)
+- [UnityDarkSkin](https://github.com/Gluschenko/UnityDarkSkin) ![GitHub last commit](https://img.shields.io/github/last-commit/Gluschenko/UnityDarkSkin) - Switching layout theme in Unity Editor (light -> dark)
 - [UnityEditorHelper](https://github.com/JefferiesTube/UnityEditorHelper) ![GitHub last commit](https://img.shields.io/github/last-commit/JefferiesTube/UnityEditorHelper?logoSize=auto) - An organized bunch of scripts to make editor scripting in Unity easier
 - [unity-themes](https://github.com/zios/unity-themes) ![GitHub last commit](https://img.shields.io/github/last-commit/zios/unity-themes?logoSize=auto) - Provides the Unity Editor with adjustable, hot-swappable GUI themes across all elements
 - [StableDiffusionUnityTools](https://github.com/KonH/StableDiffusionUnityTools) ![GitHub last commit](https://img.shields.io/github/last-commit/KonH/StableDiffusionUnityTools?logoSize=auto) - Editor assets generation via Stable Diffusion
@@ -591,7 +591,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## 3D Model
 
 - [UnityFBXExporter](https://github.com/KellanHiggins/UnityFBXExporter) ![GitHub last commit](https://img.shields.io/github/last-commit/KellanHiggins/UnityFBXExporter?logoSize=auto) - Export any Unity GameObject into a FBX ASCII format
-- [ExportSceneToObj](https://github.com/monitor1394/ExportSceneToObj) - Export scene (including objects and terrain ) ![GitHub last commit](https://img.shields.io/github/last-commit/monitor1394/ExportSceneToObj) - Export scene (including objects and terrain ?logoSize=auto) or fbx to .obj file
+- [ExportSceneToObj](https://github.com/monitor1394/ExportSceneToObj) ![GitHub last commit](https://img.shields.io/github/last-commit/monitor1394/ExportSceneToObj) - Export scene (including objects and terrain ) or fbx to .obj file
 
 ## Color
 
@@ -827,7 +827,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [3DPainterFramework](https://github.com/XY01/3DPainterFramework) ![GitHub last commit](https://img.shields.io/github/last-commit/XY01/3DPainterFramework?logoSize=auto) - 3D painter framework
 - [EzySlice](https://github.com/DavidArayan/EzySlice) ![GitHub last commit](https://img.shields.io/github/last-commit/DavidArayan/EzySlice?logoSize=auto) - An open source mesh slicer framework
 - [Destructible-Walls](https://github.com/ElasticSea/Destructible-Walls) ![GitHub last commit](https://img.shields.io/github/last-commit/ElasticSea/Destructible-Walls?logoSize=auto) - Demo showcasing destructible walls
-- [UnityShapes](https://github.com/miguel12345/UnityShapes) - Draw shapes (circle,line,arrow) ![GitHub last commit](https://img.shields.io/github/last-commit/miguel12345/UnityShapes) - Draw shapes (circle,line,arrow?logoSize=auto) with one line of code
+- [UnityShapes](https://github.com/miguel12345/UnityShapes) ![GitHub last commit](https://img.shields.io/github/last-commit/miguel12345/UnityShapes) - Draw shapes (circle,line,arrow) with one line of code
 - [CurveModifier](https://github.com/leon196/CurveModifier) ![GitHub last commit](https://img.shields.io/github/last-commit/leon196/CurveModifier?logoSize=auto) - Implementation of the curve modifier from Blender to Unity
 - [unity-subdivision-surface](https://github.com/mattatz/unity-subdivision-surface) ![GitHub last commit](https://img.shields.io/github/last-commit/mattatz/unity-subdivision-surface?logoSize=auto) - Loop subdivision surface algorithm implementation
 - [unity-procedural-cables](https://github.com/henrihanot/unity-procedural-cables) ![GitHub last commit](https://img.shields.io/github/last-commit/henrihanot/unity-procedural-cables?logoSize=auto) - Components for make procedural cables and curved shapes
@@ -842,7 +842,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [unity-tetrahedron-tree](https://github.com/sanderman01/unity-tetrahedron-tree) ![GitHub last commit](https://img.shields.io/github/last-commit/sanderman01/unity-tetrahedron-tree?logoSize=auto) - Generate triangle meshes in the shape of trees
 - [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) ![GitHub last commit](https://img.shields.io/github/last-commit/marian42/wavefunctioncollapse?logoSize=auto) - Walk through an infinite, procedurally generated city
 - [unity-polygon-2d-editor](https://github.com/NotWoods/unity-polygon-2d-editor) ![GitHub last commit](https://img.shields.io/github/last-commit/NotWoods/unity-polygon-2d-editor?logoSize=auto) - Uses the collider of a PolygonCollider2D to generate a mesh for a GameObject
-- [UnityRuntimePreviewGenerator](https://github.com/yasirkula/UnityRuntimePreviewGenerator) - Generate preview textures (thumbnails) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityRuntimePreviewGenerator) - Generate preview textures (thumbnails?logoSize=auto) for your GameObject's or materials on the fly
+- [UnityRuntimePreviewGenerator](https://github.com/yasirkula/UnityRuntimePreviewGenerator) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityRuntimePreviewGenerator) - Generate preview textures (thumbnails) for your GameObject's or materials on the fly
 
 ## Message Bus
 
@@ -905,7 +905,7 @@ A categorized collection of awesome Unity open source on GitHub.
 ## Transform
 
 - [unity-transform-control](https://github.com/mattatz/unity-transform-control) ![GitHub last commit](https://img.shields.io/github/last-commit/mattatz/unity-transform-control?logoSize=auto) - Transform controller in Game View
-- [TransformLocker](https://github.com/hont127/TransformLocker) - Transform Locker Component(Position/Rotation/Scale Locked) ![GitHub last commit](https://img.shields.io/github/last-commit/hont127/TransformLocker) - Transform Locker Component(Position/Rotation/Scale Locked?logoSize=auto)
+- [TransformLocker](https://github.com/hont127/TransformLocker) ![GitHub last commit](https://img.shields.io/github/last-commit/hont127/TransformLocker) - Transform Locker Component(Position/Rotation/Scale Locked)
 - [Unity3DRuntimeTransformGizmo](https://github.com/HiddenMonk/Unity3DRuntimeTransformGizmo) ![GitHub last commit](https://img.shields.io/github/last-commit/HiddenMonk/Unity3DRuntimeTransformGizmo?logoSize=auto) - A runtime transform gizmo similar to unitys editor
 
 ## Effect
@@ -936,7 +936,7 @@ A categorized collection of awesome Unity open source on GitHub.
 
 - [FastGizmosUnity](https://github.com/sverdegd/FastGizmosUnity) ![GitHub last commit](https://img.shields.io/github/last-commit/sverdegd/FastGizmosUnity?logoSize=auto) - Set of gizmos utilities
 - [DrawGizmo](https://github.com/Eldoir/DrawGizmo) ![GitHub last commit](https://img.shields.io/github/last-commit/Eldoir/DrawGizmo?logoSize=auto) - Display a gizmo on any GameObject
-- [GizmoExtensions](https://github.com/code-beans/GizmoExtensions) - Utility class(es) ![GitHub last commit](https://img.shields.io/github/last-commit/code-beans/GizmoExtensions) - Utility class(es?logoSize=auto) that extend Unity's Gizmos
+- [GizmoExtensions](https://github.com/code-beans/GizmoExtensions) ![GitHub last commit](https://img.shields.io/github/last-commit/code-beans/GizmoExtensions) - - Utility class(es) that extend Unity's Gizmos
 - [GizmosPlus](https://github.com/zchfvy/GizmosPlus) ![GitHub last commit](https://img.shields.io/github/last-commit/zchfvy/GizmosPlus?logoSize=auto) - A Unity Package that provides additional GIzmo shapes and tools
 
 ## Curve
@@ -971,7 +971,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Unidux](https://github.com/mattak/Unidux) ![GitHub last commit](https://img.shields.io/github/last-commit/mattak/Unidux?logoSize=auto) - Redux Architecture for Unity
 - [Moments](https://github.com/Chman/Moments) ![GitHub last commit](https://img.shields.io/github/last-commit/Chman/Moments?logoSize=auto) - A quick GIF replay recorder
 - [Unity-WinForms](https://github.com/Meragon/Unity-WinForms) ![GitHub last commit](https://img.shields.io/github/last-commit/Meragon/Unity-WinForms?logoSize=auto) - A Windows Forms port
-- [UniMail](https://github.com/kyubuns/UniMail) - Send mail (with image) ![GitHub last commit](https://img.shields.io/github/last-commit/kyubuns/UniMail) - Send mail (with image?logoSize=auto) from unity
+- [UniMail](https://github.com/kyubuns/UniMail) ![GitHub last commit](https://img.shields.io/github/last-commit/kyubuns/UniMail) - Send mail (with image) from unity
 - [PlayerPrefsTools.cs](https://gist.github.com/anonymous/4240d26b27315502969dc3fcdd08378f) - Get all player prefs keys
 - [uni-deconstruction](https://github.com/baba-s/uni-deconstruction) ![GitHub last commit](https://img.shields.io/github/last-commit/baba-s/uni-deconstruction?logoSize=auto) - Deconstruction for Unity
 - [Typogenic](https://github.com/Chman/Typogenic) ![GitHub last commit](https://img.shields.io/github/last-commit/Chman/Typogenic?logoSize=auto) - Signed-distance field text rendering
@@ -999,7 +999,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UnityCoroutinesWithoutMonoBehaviours](https://github.com/svermeulen/UnityCoroutinesWithoutMonoBehaviours) ![GitHub last commit](https://img.shields.io/github/last-commit/svermeulen/UnityCoroutinesWithoutMonoBehaviours?logoSize=auto) - Coroutines without MonoBehaviours
 - [Unity3D-IconManager](https://github.com/Thundernerd/Unity3D-IconManager) ![GitHub last commit](https://img.shields.io/github/last-commit/Thundernerd/Unity3D-IconManager?logoSize=auto) - Allowing you to set icons for GameObjects through code
 - [Unity3D-ComponentAttribute](https://github.com/Thundernerd/Unity3D-ComponentAttribute) ![GitHub last commit](https://img.shields.io/github/last-commit/Thundernerd/Unity3D-ComponentAttribute?logoSize=auto) - An attribute that let's you auto-load components
-- [UnityOrderedUpdate](https://github.com/yasirkula/UnityOrderedUpdate) - Receive Update callback(s) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityOrderedUpdate) - Receive Update callback(s?logoSize=auto) from anywhere and in any order
+- [UnityOrderedUpdate](https://github.com/yasirkula/UnityOrderedUpdate) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityOrderedUpdate) - Receive Update callback(s) from anywhere and in any order
 - [Mathd](https://github.com/Darkziyu/Mathd) ![GitHub last commit](https://img.shields.io/github/last-commit/Darkziyu/Mathd?logoSize=auto) - The double type version of the Unity struct Vector,Quaternion and Matrix
 - [UnityStandaloneFileBrowser](https://github.com/gkngkc/UnityStandaloneFileBrowser) ![GitHub last commit](https://img.shields.io/github/last-commit/gkngkc/UnityStandaloneFileBrowser?logoSize=auto) - A native file browser for unity standalone platforms
 - [SaveGameFree](https://github.com/BayatGames/SaveGameFree) ![GitHub last commit](https://img.shields.io/github/last-commit/BayatGames/SaveGameFree?logoSize=auto) - A free and simple but powerful solution for saving and loading game data
@@ -1040,7 +1040,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [MemoryInfoPlugin-for-Unity](https://github.com/hiyorin/MemoryInfoPlugin-for-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/hiyorin/MemoryInfoPlugin-for-Unity?logoSize=auto) - A set of tools to allow handling memory info for Android and iOS
 - [SystemVolumePlugin-for-Unity](https://github.com/hiyorin/SystemVolumePlugin-for-Unity) ![GitHub last commit](https://img.shields.io/github/last-commit/hiyorin/SystemVolumePlugin-for-Unity?logoSize=auto) - A set of tools to allow handling system volume for Android and iOS
 - [unity-native-sharing](https://github.com/ChrisMaire/unity-native-sharing) ![GitHub last commit](https://img.shields.io/github/last-commit/ChrisMaire/unity-native-sharing?logoSize=auto) - Open native sharing dialogs on iOS and Android, primarily for sharing screenshots
-- [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare) -Natively share files (images, videos, documents, etc.) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeShare) -Natively share files (images, videos, documents, etc.?logoSize=auto) and/or plain text on Android & iOS
+- [Unity Native Share Plugin](https://github.com/yasirkula/UnityNativeShare) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityNativeShare) - Natively share files (images, videos, documents, etc.) and/or plain text on Android & iOS
 
 ## iOS
 
@@ -1062,7 +1062,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [uni-android-intent](https://github.com/baba-s/uni-android-intent) ![GitHub last commit](https://img.shields.io/github/last-commit/baba-s/uni-android-intent?logoSize=auto) - extension "adb shell am start"
 - [ShowToastUnityAndroid.cs](https://gist.github.com/TarasOsiris/dec42cf3ecca6c854182f385e38dbf57) - Shows toast on Android
 - [UnityShowAndroidStatusBar](https://github.com/Over17/UnityShowAndroidStatusBar) ![GitHub last commit](https://img.shields.io/github/last-commit/Over17/UnityShowAndroidStatusBar?logoSize=auto) - Show Android status bar
-- [Unity3D-LogCat-extension](https://github.com/dzonatan/Unity3D-LogCat-extension) - Logcat (android logging) ![GitHub last commit](https://img.shields.io/github/last-commit/dzonatan/Unity3D-LogCat-extension) - Logcat (android logging?logoSize=auto) extension
+- [Unity3D-LogCat-extension](https://github.com/dzonatan/Unity3D-LogCat-extension) ![GitHub last commit](https://img.shields.io/github/last-commit/dzonatan/Unity3D-LogCat-extension) - Logcat (android logging) extension
 
 # Other
 
@@ -1085,7 +1085,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [Pure ECS Burst Job 2D Grid A* Pathfinding](https://github.com/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job) ![GitHub last commit](https://img.shields.io/github/last-commit/Omniaffix-Dave/Unity-2D-Pathfinding-Grid-ECS-Job?logoSize=auto) - ECS Burst Job System 2D Pathfinding
 - [ECS-Tween](https://github.com/Xerios/ECS-Tween) ![GitHub last commit](https://img.shields.io/github/last-commit/Xerios/ECS-Tween?logoSize=auto) - Simple Unity tweening system using ECS that works with GameObject
 - [Survival Shooter ECS](https://github.com/davidpol/SurvivalShooterECS) ![GitHub last commit](https://img.shields.io/github/last-commit/davidpol/SurvivalShooterECS?logoSize=auto) - A port of Unity's official Survival Shooter tutorial to the ECS
-- [Unity (ECS/Job System) SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation?logoSize=auto)
+- [Unity (ECS/Job System) SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) ![GitHub last commit](https://img.shields.io/github/last-commit/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation)
 - [Instanced Sprite Renderer for Unity's ECS](https://github.com/paullj/unity-ecs-instanced-sprite-renderer) ![GitHub last commit](https://img.shields.io/github/last-commit/paullj/unity-ecs-instanced-sprite-renderer?logoSize=auto) - An example of a simple performant sprite renderer 
 - [Unity integration for Entity Component System framework](https://github.com/Leopotam/ecs-unityintegration) ![GitHub last commit](https://img.shields.io/github/last-commit/Leopotam/ecs-unityintegration?logoSize=auto) - UnityEditor integration for LeoECS
 - [Svelto Entity Component System 2.8](https://github.com/sebas77/Svelto.ECS) ![GitHub last commit](https://img.shields.io/github/last-commit/sebas77/Svelto.ECS?logoSize=auto) - Svelto ECS C# Lightweight Data Oriented ECS Framework
@@ -1139,7 +1139,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [MissingScriptsFinder](https://github.com/plyoung/MissingScriptsFinder) ![GitHub last commit](https://img.shields.io/github/last-commit/plyoung/MissingScriptsFinder?logoSize=auto) - Helps find objects with missing scripts
 - [ihaiu.GUIDRef](https://github.com/ihaiucom/ihaiu.GUIDRef) ![GitHub last commit](https://img.shields.io/github/last-commit/ihaiucom/ihaiu.GUIDRef?logoSize=auto) - Check the asset reference relationship in the browser
 - [UnityEventVisualizer](https://github.com/MephestoKhaan/UnityEventVisualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/MephestoKhaan/UnityEventVisualizer?logoSize=auto) - A graph editor for viewing all UnityEvents at a glance
-- [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s?logoSize=auto)
+- [UnityAssetUsageDetector](https://github.com/yasirkula/UnityAssetUsageDetector) ![GitHub last commit](https://img.shields.io/github/last-commit/yasirkula/UnityAssetUsageDetector) - Find usages of the selected asset(s) and/or Object(s)
 - [DTUIRebuildVisualizer](https://github.com/DarrenTsung/DTUIRebuildVisualizer) ![GitHub last commit](https://img.shields.io/github/last-commit/DarrenTsung/DTUIRebuildVisualizer?logoSize=auto) - Tool to visualize UI canvas rebuilds and create performant Unity UI
 - [Unity-Resource-Checker](https://github.com/handcircus/Unity-Resource-Checker) ![GitHub last commit](https://img.shields.io/github/last-commit/handcircus/Unity-Resource-Checker?logoSize=auto) - Editor utility for unity to help check resources in the current scene
 - [unity-reference-checker](https://github.com/haydenjameslee/unity-reference-checker) ![GitHub last commit](https://img.shields.io/github/last-commit/haydenjameslee/unity-reference-checker?logoSize=auto) - Checking unassigned references in MonoBehaviours at compile time
@@ -1231,7 +1231,7 @@ A categorized collection of awesome Unity open source on GitHub.
 - [UniBpmAnalyzer](https://github.com/WestHillApps/UniBpmAnalyzer) ![GitHub last commit](https://img.shields.io/github/last-commit/WestHillApps/UniBpmAnalyzer?logoSize=auto) - BPM analyzer
 - [MusicEngine](https://github.com/geekdrums/MusicEngine) ![GitHub last commit](https://img.shields.io/github/last-commit/geekdrums/MusicEngine?logoSize=auto) - make music synced game
 - [NoteEditor](https://github.com/setchi/NoteEditor) ![GitHub last commit](https://img.shields.io/github/last-commit/setchi/NoteEditor?logoSize=auto) - Note editor for rhythm games
-- [unity-midi](https://github.com/n-yoda/unity-midi) - Play MIDI (SMF) ![GitHub last commit](https://img.shields.io/github/last-commit/n-yoda/unity-midi) - Play MIDI (SMF?logoSize=auto) on Unity, using C# Synth Project
+- [unity-midi](https://github.com/n-yoda/unity-midi) ![GitHub last commit](https://img.shields.io/github/last-commit/n-yoda/unity-midi) - Play MIDI (SMF) on Unity, using C# Synth Project
 - [unity-audio-spectrum](https://github.com/keijiro/unity-audio-spectrum) ![GitHub last commit](https://img.shields.io/github/last-commit/keijiro/unity-audio-spectrum?logoSize=auto) - Provides spectrum data with audio output
 - [Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) ![GitHub last commit](https://img.shields.io/github/last-commit/allanpichardo/Unity-Beat-Detection?logoSize=auto) - Musical beat detection and audio spectrum analysis
 - [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) ![GitHub last commit](https://img.shields.io/github/last-commit/MathewHDYT/Unity-Audio-Manager?logoSize=auto) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D
